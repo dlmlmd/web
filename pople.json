@@ -1,61 +1,45 @@
 {
-  "name": "Ian Devling",
+  "name": "LÊ VĂN",
   "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-  "area": "Top 1",
+  "area": "ĐỜI THỨ I",
   "profileUrl": "#",
-  "office": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  "tags": "number 1,top",
+  "office": "CTO office",
+  "tags": "Ceo,tag1,manager,cto",
   "isLoggedUser": false,
   "unit": {
-    "type": "business",
+    "type": "tổ",
     "value": "Business first"
   },
-  "positionName": "number 1",
+  "positionName": "Cao cao tiên tổ",
   "children": [
     {
-      "name": "Davolio Nancy 0",
+      "name": "Davolio Nancy",
       "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "area": "Corporate",
+      "area": "ĐỜI THỨ II",
       "profileUrl": "#",
       "office": "CEO office",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
-        "type": "business",
-        "value": "Business one"
+        "type": "tổ",
+        "value": "Business first"
       },
-      "positionName": "number 2 ",
-			"children": [
-			{
-				"name": "Davolio Nancy 2",
-				"imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-				"area": "Corporate",
-				"profileUrl": "#",
-				"office": "CEO office",
-				"tags": "Ceo,tag1, tag2",
-				"isLoggedUser": false,
-				"unit": {
-				"type": "business",
-				"value": "Business one"
-				},
-			"positionName": "number 3 "
-			}
-		]
-	  },
-	  {
-          "name": "Fuller Andrew",
-          "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-          "area": "Corporate",
-          "profileUrl": "#",
-          "office": "CEO office",
-          "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
-          "unit": {
-            "type": "department",
-            "value": "Marketing Department",
-            "desc":"Marketing Department Description"
-          },
-          "positionName": "number 2"
-        }
-	 ]
+      "positionName": "Cao cao tiên tổ"
+      },
+     {
+      "name": " Leverling Janet",
+      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+      "area": "ĐỜI THỨ II",
+      "profileUrl": "#",
+      "office": "CEO office",
+      "tags": "Ceo,tag1, tag2",
+      "isLoggedUser": false,
+      "unit": {
+        "type": "tổ",
+        "value": "Business first"
+      },
+      "positionName": "Cao cao tiên tổ"
+      
+    }
+  ]
 }
