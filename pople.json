@@ -55,7 +55,24 @@
 				"chi_phai": "Business one 3",
 				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
 				},
+				"diavi": "number 3 ",
+					"children": [
+				{
+				"name": "Davolio Nancy 3b",
+				"imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi_phai": "Business one 3b",
+				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
+				},
 				"diavi": "number 3 "
+				}
+				]
 				}
 				]
 			},
