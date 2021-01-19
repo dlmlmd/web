@@ -1,45 +1,152 @@
 {
-  "name": "LÊ VĂN",
-  "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-  "area": "ĐỜI THỨ I",
-  "profileUrl": "#",
-  "office": "CTO office",
-  "tags": "Ceo,tag1,manager,cto",
+  "name": "Ian Devling",
+  "imageUrl": "nophoto.png",
+  "doithu": "Top 1",
+  "lienket": "#",
+  "thongtin": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "tags": "number 1,top",
   "isLoggedUser": false,
   "unit": {
     "type": "tổ",
-    "value": "Business first"
+    "chi-phai": "Business first"
   },
-  "positionName": "Cao cao tiên tổ",
+  "diavi": "number 1",
   "children": [
     {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "area": "ĐỜI THỨ II",
-      "profileUrl": "#",
-      "office": "CEO office",
+      "name": "Davolio Nancy 2",
+      "imageUrl": "nophoto.png",
+      "doithu": "Corporate",
+      "lienket": "#",
+      "thongtin": "CEO thongtin",
       "tags": "Ceo,tag1, tag2",
       "isLoggedUser": false,
       "unit": {
         "type": "tổ",
-        "value": "Business first"
+        "chi-phai": "Business one 0",
+		"desc":"Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description"
       },
-      "positionName": "Cao cao tiên tổ"
-      },
-     {
-      "name": " Leverling Janet",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "area": "ĐỜI THỨ II",
-      "profileUrl": "#",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "tổ",
-        "value": "Business first"
-      },
-      "positionName": "Cao cao tiên tổ"
-      
-    }
-  ]
+      "diavi": "number 2 ",
+			"children": [
+			{
+				"name": "Davolio Nancy 1",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one 1",
+				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
+				},
+			"diavi": "number 3 ",
+				"children": [
+				{
+				"name": "Davolio Nancy 3",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one 3",
+				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
+				},
+				"diavi": "number 3 "
+				}
+				]
+			},
+			{
+				"name": "Davolio Nancy 4",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one 4",
+				"desc":"Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description"
+				},
+			"diavi": "number 3 "
+			},
+			{
+				"name": "Davolio Nancy",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one"
+				},
+			"diavi": "number 3 "
+			},
+			{
+				"name": "Davolio Nancy",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one"
+				},
+			"diavi": "number 3 "
+			},
+			{
+				"name": "Davolio Nancy",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one"
+				},
+			"diavi": "number 3 "
+			},
+			{
+				"name": "Davolio Nancy",
+				"imageUrl": "nophoto.png",
+				"doithu": "Corporate",
+				"lienket": "#",
+				"thongtin": "CEO thongtin",
+				"tags": "Ceo,tag1, tag2",
+				"isLoggedUser": false,
+				"unit": {
+				"type": "chi phái",
+				"chi-phai": "Business one",
+				"desc": "Chi 6, phái 1"
+				},
+			"diavi": "number x "
+			}
+		]
+	  },
+	  {
+          "name": "Fuller Andrew",
+          "imageUrl": "nophoto.png",
+          "doithu": "Corporate",
+          "lienket": "#",
+          "thongtin": "CEO thongtin",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "tổ",
+            "chi-phai": "Marketing Department",
+            "desc":"Marketing Department Description"
+          },
+          "diavi": "number 2"
+        }
+	 ]
 }
