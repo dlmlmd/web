@@ -8,7 +8,7 @@
   "isLoggedUser": false,
   "unit": {
     "type": "tổ",
-    "chi-phai": "Business first"
+    "chi_phai": "Business first"
   },
   "diavi": "number 1",
   "children": [
@@ -22,7 +22,7 @@
       "isLoggedUser": false,
       "unit": {
         "type": "tổ",
-        "chi-phai": "Business one 0",
+        "chi_phai": "Business one 0",
 		"desc":"Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description"
       },
       "diavi": "number 2 ",
@@ -37,7 +37,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one 1",
+				"chi_phai": "Business one 1",
 				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
 				},
 			"diavi": "number 3 ",
@@ -52,7 +52,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one 3",
+				"chi_phai": "Business one 3",
 				"desc":"Marketing Department Description d d dgas dga â aagfa tagdas sy srysay"
 				},
 				"diavi": "number 3 "
@@ -69,7 +69,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one 4",
+				"chi_phai": "Business one 4",
 				"desc":"Marketing Department Description Marketing Department Description Marketing Department Description Marketing Department Description"
 				},
 			"diavi": "number 3 "
@@ -84,7 +84,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one"
+				"chi_phai": "Business one"
 				},
 			"diavi": "number 3 "
 			},
@@ -98,7 +98,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one"
+				"chi_phai": "Business one"
 				},
 			"diavi": "number 3 "
 			},
@@ -112,7 +112,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one"
+				"chi_phai": "Business one"
 				},
 			"diavi": "number 3 "
 			},
@@ -126,7 +126,7 @@
 				"isLoggedUser": false,
 				"unit": {
 				"type": "chi phái",
-				"chi-phai": "Business one",
+				"chi_phai": "Business one",
 				"desc": "Chi 6, phái 1"
 				},
 			"diavi": "number x "
@@ -143,7 +143,7 @@
           "isLoggedUser": false,
           "unit": {
             "type": "tổ",
-            "chi-phai": "Marketing Department",
+            "chi_phai": "Marketing Department",
             "desc":"Marketing Department Description"
           },
           "diavi": "number 2"
