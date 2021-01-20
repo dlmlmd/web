@@ -1,76 +1,76 @@
 {
-  "name": "Cụ LÊ VĂN TỰ",
-  "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-  "doithu": "ĐỜI THỨ NHẤT",
-  "lienket": "#",
-  "thongtin": "Ngày tháng năm sinh của Cụ không ghi lại được.<br>Cụ sinh ra và lớn lên trong gia đình nho học bề thế, được học nhiều biết rộng.<br>Lớn lên đi khỏi nhà tự kiếm sinh nhai và lập nghiệp.>br>Quê Cụ: Làng La Vân, Tổng Vân Sơn, huyện Quỳnh Phụ (nay là Quỳnh Côi), tỉnh Thái Bình. Cụ lên làng Hoa Dương, Tổng My Động, huyện Thanh Miện, Tỉnh Hải Dương (nay là thôn An Dương, xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương)",
-  "tags": "Tổ nhất, đời thứ nhất",
-  "isLoggedUser": false,
-  "unit": {
-    "type": "tổ",
-    "chi_phai": "ĐỜI THỨ NHẤT"
-  },
-  "diavi": "cụ Tổ nhất",
-  "children": [
-    {
-      "name": "cụ LÊ VĂN BÍNH",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "doithu": "ĐỜI THỨ HAI",
-      "lienket": "#",
-      "thongtin": "Cụ bà: NGỌC MỸ<br>Hai cụ đều không ghi được ngày tháng năm sinh. Ngày mất của cụ ông là 30/11 âm lịch, cụ bà không ghi lại được.<br>Cụ lớn lên cũng theo cha dạy học và cắt thuốc được dân làng quý mến.<br>Hai cụ sinh được ba người con trai:<table width='100%' border=1><tr><td>Lê Văn Phẩm</td><td>Lê Văn Phấn</td><td>Lê Văn Mưu</td></tr></table>",
-      "tags": "Tổ nhì, đời thứ hai",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "tổ",
-        "chi_phai": "ĐỜI THỨ HAI"
-      },
-      "diavi": "cụ Tổ nhì",
-      "children": [
-        {
-          "name": "cụ LÊ VĂN PHẨM",
-          "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-          "doithu": "ĐỜI THỨ BA",
-          "lienket": "#",
-          "thongtin": "Cụ được ăn học, lớn lên theo nghề của cha, trưởng thành được dân làng và xã hội tín nhiệm. Là người đầu tiên của họ tham gia vào công việc của làng. Cụ làm lý trưởng. Hai cụ sinh được tám người con: bốn trai, bốn gái.",
-          "tags": "Tổ phái, đơi thứ ba, phái I",
-          "isLoggedUser": false,
-          "unit": {
-            "type": "chi phái",
-            "chi_phai": "PHÁI I"
-          },
-          "diavi": "cụ Tổ phái",
-          "children": [
+   "name":"Cụ LÊ VĂN TỰ",
+   "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+   "doithu":"ĐỜI THỨ NHẤT",
+   "lienket":"#",
+   "thongtin":"Ngày tháng năm sinh của Cụ không ghi lại được.<br>Cụ sinh ra và lớn lên trong gia đình nho học bề thế, được học nhiều biết rộng.<br>Lớn lên đi khỏi nhà tự kiếm sinh nhai và lập nghiệp.>br>Quê Cụ: Làng La Vân, Tổng Vân Sơn, huyện Quỳnh Phụ (nay là Quỳnh Côi), tỉnh Thái Bình. Cụ lên làng Hoa Dương, Tổng My Động, huyện Thanh Miện, Tỉnh Hải Dương (nay là thôn An Dương, xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương)",
+   "tags":"Tổ nhất, đời thứ nhất",
+   "isLoggedUser":false,
+   "unit":{
+      "type":"tổ",
+      "chi_phai":"ĐỜI THỨ NHẤT"
+   },
+   "diavi":"cụ Tổ nhất",
+   "children":[
+      {
+         "name":"cụ LÊ VĂN BÍNH",
+         "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+         "doithu":"ĐỜI THỨ HAI",
+         "lienket":"#",
+         "thongtin":"Cụ bà: NGỌC MỸ<br>Hai cụ đều không ghi được ngày tháng năm sinh. Ngày mất của cụ ông là 30/11 âm lịch, cụ bà không ghi lại được.<br>Cụ lớn lên cũng theo cha dạy học và cắt thuốc được dân làng quý mến.<br>Hai cụ sinh được ba người con trai:<table width='100%' border=1><tr><td>Lê Văn Phẩm</td><td>Lê Văn Phấn</td><td>Lê Văn Mưu</td></tr></table>",
+         "tags":"Tổ nhì, đời thứ hai",
+         "isLoggedUser":false,
+         "unit":{
+            "type":"tổ",
+            "chi_phai":"ĐỜI THỨ HAI"
+         },
+         "diavi":"cụ Tổ nhì",
+         "children":[
             {
-              "name": "Davolio Nancy",
-              "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-              "doithu": "ĐỜI THỨ II",
-              "lienket": "#",
-              "thongtin": "CEO thongtin",
-              "tags": "Ceo,tag1, tag2",
-              "isLoggedUser": false,
-              "unit": {
-                "type": "chi phái",
-                "chi_phai": "Business first"
-              },
-              "diavi": "Cao cao tiên tổ"
+               "name":"cụ LÊ VĂN PHẨM",
+               "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+               "doithu":"ĐỜI THỨ BA",
+               "lienket":"#",
+               "thongtin":"Cụ được ăn học, lớn lên theo nghề của cha, trưởng thành được dân làng và xã hội tín nhiệm. Là người đầu tiên của họ tham gia vào công việc của làng. Cụ làm lý trưởng. Hai cụ sinh được tám người con: bốn trai, bốn gái.",
+               "tags":"Tổ phái, đơi thứ ba, phái I",
+               "isLoggedUser":false,
+               "unit":{
+                  "type":"chi phái",
+                  "chi_phai":"PHÁI I"
+               },
+               "diavi":"cụ Tổ phái",
+               "children":[
+                  {
+                     "name":"cụ LÊ VĂN ĐỒNG",
+                     "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+                     "doithu":"ĐỜI THỨ IV",
+                     "lienket":"#",
+                     "thongtin":"Không ghi lại được ngày tháng năm sinh.<br>Được ăn học từ nhỏ, khi trưởng thành Cụ làm lý trưởng làng.",
+                     "tags":"Phái I, đời thứ tư, chi I",
+                     "isLoggedUser":false,
+                     "unit":{
+                        "type":"chi phái",
+                        "chi_phai":"PHÁI I, CHI I"
+                     },
+                     "diavi":"cụ Tổ Phái I, Chi I"
+                  }
+               ]
+            },
+            {
+               "name":"cụ LÊ VĂN PHẤN",
+               "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+               "doithu":"ĐỜI THỨ BA",
+               "lienket":"#",
+               "thongtin":"Ngày sinh của cụ không ghi lại được.<br>Cụ được ăn học, lớn lên theo lệnh binh dịch thời đó, cụ đi lính.",
+               "tags":"Tổ phái, đơi thứ ba, phái II",
+               "isLoggedUser":false,
+               "unit":{
+                  "type":"chi phái",
+                  "chi_phai":"PHÁI II"
+               },
+               "diavi":"cụ Tổ phái"
             }
-          ]
-        },
-		{
-          "name": "cụ LÊ VĂN PHẤN",
-          "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-          "doithu": "ĐỜI THỨ BA",
-          "lienket": "#",
-          "thongtin": "Ngày sinh của cụ không ghi lại được.<br>Cụ được ăn học, lớn lên theo lệnh binh dịch thời đó, cụ đi lính.",
-          "tags": "Tổ phái, đơi thứ ba, phái II",
-          "isLoggedUser": false,
-          "unit": {
-            "type": "chi phái",
-            "chi_phai": "PHÁI II"
-          },
-          "diavi": "cụ Tổ phái"
-		  }
-      ]
-    }
-  ]
+         ]
+      }
+   ]
 }
