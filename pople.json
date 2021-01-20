@@ -1,78 +1,62 @@
 {
-  "name": "LÊ VĂN",
+  "name": "Cụ LÊ VĂN TỰ",
   "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-  "doithu": "ĐỜI THỨ I",
+  "doithu": "ĐỜI THỨ NHẤT",
   "lienket": "#",
-  "thongtin": "CTO thongtin",
-  "tags": "Ceo,tag1,manager,cto",
+  "thongtin": "Ngày tháng năm sinh của Cụ không ghi lại được.<br>Cụ sinh ra và lớn lên trong gia đình nho học bề thế, được học nhiều biết rộng.<br>Lớn lên đi khỏi nhà tự kiếm sinh nhai và lập nghiệp.>br>Quê Cụ: Làng La Vân, Tổng Vân Sơn, huyện Quỳnh Phụ (nay là Quỳnh Côi), tỉnh Thái Bình. Cụ lên làng Hoa Dương, Tổng My Động, huyện Thanh Miện, Tỉnh Hải Dương (nay là thôn An Dương, xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương)",
+  "tags": "Tổ nhất, đời thứ nhất",
   "isLoggedUser": false,
   "unit": {
     "type": "tổ",
-    "chi_phai": "Business first"
+    "chi_phai": "ĐỜI THỨ NHẤT"
   },
-  "diavi": "Cao cao tiên tổ",
+  "diavi": "cụ Tổ nhất",
   "children": [
     {
-      "name": "Davolio Nancy",
+      "name": "cụ LÊ VĂN BÍNH",
       "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "doithu": "ĐỜI THỨ II",
+      "doithu": "ĐỜI THỨ HAI",
       "lienket": "#",
-      "thongtin": "CEO thongtin",
-      "tags": "Ceo,tag1, tag2",
+      "thongtin": "Cụ bà: NGỌC MỸ<br>Hai cụ đều không ghi được ngày tháng năm sinh. Ngày mất của cụ ông là 30/11 âm lịch, cụ bà không ghi lại được.<br>Cụ lớn lên cũng theo cha dạy học và cắt thuốc được dân làng quý mến.<br>Hai cụ sinh được ba người con trai:<table width='100%'><tr><td>Lê Văn Phẩm</td><td>Lê Văn Phấn</td><td>Lê Văn Mưu</td></tr></table>",
+      "tags": "Tổ nhì, đời thứ hai",
       "isLoggedUser": false,
       "unit": {
         "type": "tổ",
-        "chi_phai": "Business first"
+        "chi_phai": "ĐỜI THỨ HAI"
       },
-      "diavi": "Cao cao tiên tổ",
-	  "children": [
-    {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "doithu": "ĐỜI THỨ II",
-      "lienket": "#",
-      "thongtin": "CEO thongtin",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "chi phái",
-        "chi_phai": "Business first"
-      },
-      "diavi": "Cao cao tiên tổ",
-	  "children": [
-    {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "doithu": "ĐỜI THỨ II",
-      "lienket": "#",
-      "thongtin": "CEO thongtin",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "chi phái",
-        "chi_phai": "Business first"
-      },
-      "diavi": "Cao cao tiên tổ"
-      }
-	  ]
-      }
-	  ]
-      }
-	  ,
-     {
-      "name": " Leverling Janet",
-      "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-      "doithu": "ĐỜI THỨ II",
-      "lienket": "#",
-      "thongtin": "CEO thongtin",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "tổ",
-        "chi_phai": "Business first"
-      },
-      "diavi": "Cao cao tiên tổ"
-      
+      "diavi": "cụ Tổ nhì",
+      "children": [
+        {
+          "name": "Davolio Nancy",
+          "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+          "doithu": "ĐỜI THỨ II",
+          "lienket": "#",
+          "thongtin": "CEO thongtin",
+          "tags": "Ceo,tag1, tag2",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "chi phái",
+            "chi_phai": "Business first"
+          },
+          "diavi": "Cao cao tiên tổ",
+          "children": [
+            {
+              "name": "Davolio Nancy",
+              "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+              "doithu": "ĐỜI THỨ II",
+              "lienket": "#",
+              "thongtin": "CEO thongtin",
+              "tags": "Ceo,tag1, tag2",
+              "isLoggedUser": false,
+              "unit": {
+                "type": "chi phái",
+                "chi_phai": "Business first"
+              },
+              "diavi": "Cao cao tiên tổ"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
