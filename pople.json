@@ -27,18 +27,18 @@
       "diavi": "cụ Tổ nhì",
       "children": [
         {
-          "name": "Davolio Nancy",
+          "name": "cụ LÊ VĂN PHẨM",
           "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
-          "doithu": "ĐỜI THỨ II",
+          "doithu": "ĐỜI THỨ BA",
           "lienket": "#",
-          "thongtin": "CEO thongtin",
-          "tags": "Ceo,tag1, tag2",
+          "thongtin": "Cụ được ăn học, lớn lên theo nghề của cha, trưởng thành được dân làng và xã hội tín nhiệm. Là người đầu tiên của họ tham gia vào công việc của làng. Cụ làm lý trưởng. Hai cụ sinh được tám người con: bốn trai, bốn gái.",
+          "tags": "Tổ phái, đơi thứ ba, phái I",
           "isLoggedUser": false,
           "unit": {
             "type": "chi phái",
-            "chi_phai": "Business first"
+            "chi_phai": "PHÁI I"
           },
-          "diavi": "Cao cao tiên tổ",
+          "diavi": "cụ Tổ phái",
           "children": [
             {
               "name": "Davolio Nancy",
@@ -55,7 +55,21 @@
               "diavi": "Cao cao tiên tổ"
             }
           ]
-        }
+        },
+		{
+          "name": "cụ LÊ VĂN PHẤN",
+          "imageUrl": "https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+          "doithu": "ĐỜI THỨ BA",
+          "lienket": "#",
+          "thongtin": "Ngày sinh của cụ không ghi lại được.<br>Cụ được ăn học, lớn lên theo lệnh binh dịch thời đó, cụ đi lính.",
+          "tags": "Tổ phái, đơi thứ ba, phái II",
+          "isLoggedUser": false,
+          "unit": {
+            "type": "chi phái",
+            "chi_phai": "PHÁI II"
+          },
+          "diavi": "cụ Tổ phái"
+		  }
       ]
     }
   ]
