@@ -31,12 +31,13 @@
                "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
                "doithu":"ĐỜI THỨ BA",
                "lienket":"#",
-               "thongtin":"Cụ được ăn học, lớn lên theo nghề của cha, trưởng thành được dân làng và xã hội tín nhiệm. Là người đầu tiên của họ tham gia vào công việc của làng. Cụ làm lý trưởng. Hai cụ sinh được tám người con: bốn trai, bốn gái.<table width='100%' border=1><tr><td>Lê Thị Bộ</td><td>Lê Văn Đồng</td></tr><tr><td>Lê Thị An</td><td>Lê Văn Triệu</td></tr><tr><td>Lê Văn Thiều</td><td>Lê Thị Phiêm</td></tr><tr><td>Lê Văn Lễ</td><td>Lê Thị</td></tr></table>Ba Cụ bà không ghi lại được tên. Cụ lớn lấy chồng tên là Bộ. Cụ không có con, sau bà kế có con tên là Bồi thuộc về cánh ông Thướng. Cụ hai lấy chồng, cụ làm..., cụ thứ ba lấy chồng tên là cụ Chản.<br>Mộ Cụ để ở đống Voi  lớn đã xây lại kiên cố cùng hai cụ Phẩm và Mưu.<br>Cụ mất ngày 22-12 âm lịch cũng là ngày giỗ của cụ nay là cụ tổ phái 1 và cụ bà 12-1 âm lịch. Mộ cụ bà để ở đống voi lớn trên đường vào. Mộ cụ ông đã xây kiên cố.<br>Nay gọi là Cụ bà tổ phái 1.",
+               "thongtin":"Cụ được ăn học, lớn lên theo nghề của cha, trưởng thành được dân làng và xã hội tín nhiệm. Là người đầu tiên của họ tham gia vào công việc của làng. Cụ làm lý trưởng. Hai cụ sinh được tám người con: bốn trai, bốn gái.<table width='100%' border=1><tr><td>Lê Thị Bộ</td><td>Lê Văn Đồng</td></tr><tr><td>Lê Thị An</td><td>Lê Văn Triệu</td></tr><tr><td>Lê Văn Thiều</td><td>Lê Thị Phiêm</td></tr><tr><td>Lê Văn Lễ</td><td>Lê Thị</td></tr></table>Ba Cụ bà không ghi lại được tên. Cụ lớn lấy chồng tên là Bộ. Cụ không có con, sau bà kế có con tên là Bồi thuộc về cánh ông Thướng. Cụ hai lấy chồng, cụ làm..., cụ thứ ba lấy chồng tên là cụ Chản.<br>Mộ Cụ để ở đống Voi  lớn đã xây lại kiên cố cùng hai cụ Phẩm và cụ Mưu.<br>Cụ mất ngày 22-12 âm lịch cũng là ngày giỗ của cụ nay là cụ tổ phái 1 và cụ bà 12-1 âm lịch. Mộ cụ bà để ở đống voi lớn trên đường vào. Mộ cụ ông đã xây kiên cố.<br>Nay gọi là Cụ bà tổ phái 1.",
                "tags":"Tổ phái, đời thứ ba, phái I",
                "isLoggedUser":false,
                "unit":{
                   "type":"chi phái",
-                  "chi_phai":"PHÁI I"
+                  "chi_phai":"PHÁI I",
+				  "desc":"Đời thứ 3 từ 3 cụ phát triển thành 16 cụ 7 trai 9 gái, có 7 cụ phát triển sang đời thứ 4 sau này gọi là 7 chi."
                },
                "diavi":"cụ Tổ phái",
                "children":[
@@ -53,6 +54,34 @@
                         "chi_phai":"PHÁI I, CHI I"
                      },
                      "diavi":"cụ Tổ Phái I, Chi I"
+                  },
+				  {
+                     "name":"cụ LÊ VĂN TRIỆU",
+                     "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+                     "doithu":"ĐỜI THỨ IV",
+                     "lienket":"#",
+                     "thongtin":"Không ghi lại được ngày tháng năm sinh.<br>Được ăn học từ nhỏ, khi trưởng thành Cụ làm lý trưởng làng.",
+                     "tags":"Phái I, đời thứ tư, chi II",
+                     "isLoggedUser":false,
+                     "unit":{
+                        "type":"chi phái",
+                        "chi_phai":"PHÁI I, CHI II"
+                     },
+                     "diavi":"cụ Tổ Phái I, Chi II"
+                  },
+				  {
+                     "name":"cụ LÊ VĂN THIỀU",
+                     "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+                     "doithu":"ĐỜI THỨ IV",
+                     "lienket":"#",
+                     "thongtin":"Không ghi lại được ngày tháng năm sinh.<br>Cụ được ăn học tử tế, lớn lên Cụ làm lý trưởng trong làng, sau làm tiên chỉ.<br>Cụ bà: Nguyễn Thị Vườn. Hai cụ sinh được tám người con: ba trai và năm gái<table width='100%' border=1><tr><td>Lê Văn Tính</td><td>Lê Văn Bình</td></tr><tr><td>Lê Thị</td><td>Lê Thị</td></tr><tr><td>Lê Thị</td><td>Lê Thị</td></tr><tr><td>Lê Văn Thản</td><td>Lê Thị</td></tr></table>Các cụ bà đều không ghi lại được tên thật mà ghi theo tên cụ ông: Cụ bà Ngôn, cụ bà Môn, cụ bà Cẩn, cụ bà Nhớn, cụ bà Hoành<br>Hai cụ mất, cụ ông mất ngày 5 tháng 4 âm lịch, cụ bà mất ngày 17 tháng 1 âm lịch cũng là ngày giỗ của hai cụ<br>Mộ hai cụ để ở gò đống nhỏ gần đống voi lớn, đã xây kiên cố nay gọi là cụ tổ chi 3 phái 1.",
+                     "tags":"Phái I, đời thứ tư, chi III",
+                     "isLoggedUser":false,
+                     "unit":{
+                        "type":"chi phái",
+                        "chi_phai":"PHÁI I, CHI III"
+                     },
+                     "diavi":"cụ Tổ Phái I, Chi II"
                   }
                ]
             },
@@ -61,12 +90,28 @@
                "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
                "doithu":"ĐỜI THỨ BA",
                "lienket":"#",
-               "thongtin":"Ngày sinh của cụ không ghi lại được.<br>Cụ được ăn học, lớn lên theo lệnh binh dịch thời đó, cụ đi lính.",
+               "thongtin":"Ngày sinh của cụ không ghi lại được.<br>Cụ được ăn học, lớn lên theo lệnh binh dịch thời đó, cụ đi lính. Hết hạn lính trở về làng được cử làm tiên chỉ của làng.<br>Cụ bà không ghi lại được tên và ngày sinh.<br>Cụ bà không ghi lại được tên và ngày sinh.<br>Hai cụ sinh được sáu người con, ba trai và ba gái.<table width='100%' border=1><tr><td>Lê Văn Cộng</td><td>Lê Thị</td><td>Lê Văn Tiệp</td></tr><tr><td>Lê Thị</td><td>Lê Thị</td><td>Lê Văn Sinh</td></tr></table>Ba cụ bà không ghi lại được tên mà thường theo tên của cụ ông bà: Cụ bà Ngọc, cụ bà Thọ, cụ bà Chản. Mộ cụ để chung với cụ Phấn tại đống voi lớn.<br>Cụ ông mất ngày 9 tháng 3 âm lịch, cũng là ngày giỗ.<br>Cụ bà mất ngày 5 tháng 9 âm lịch, cũng là ngày giỗ<br>Nay gọi là cụ tổ phái 2.",
                "tags":"Tổ phái, đời thứ ba, phái II",
                "isLoggedUser":false,
                "unit":{
                   "type":"chi phái",
-                  "chi_phai":"PHÁI II"
+                  "chi_phai":"PHÁI II",
+				  "desc":"Đời thứ 3 từ 3 cụ phát triển thành 16 cụ 7 trai 9 gái, có 7 cụ phát triển sang đời thứ 4 sau này gọi là 7 chi."
+               },
+               "diavi":"cụ Tổ phái"
+            },
+			{
+               "name":"cụ LÊ VĂN MƯU",
+               "imageUrl":"https://1.bp.blogspot.com/-Y4SLJgMBNAk/YAaxEr2BJHI/AAAAAAAAMCQ/1RjvuGSKndsfYC4wZUSqpTdnlDv9wFtNgCPcBGAYYCw/s320/nophoto.png",
+               "doithu":"ĐỜI THỨ BA",
+               "lienket":"#",
+               "thongtin":"Cả hai cụ không ghi lại được ngày tháng năm sinh.<br>Cụ bà quê ở Thái Bình<br>Cụ sinh ra và lớn lên được ăn học tử tế, trưởng thành được cử làm lý trưởng trong làng. Hai cụ sinh được hai người con gái, không ghi lại được tên nên gọi theo tên chồng là cụ bà Mão và cụ bà Thu.<br>Mộ Cụ cũng để ở đống voi chung với hai cụ Phẩm và cụ Phấn.<br>Cụ ông mất ngày 4 tháng 4 âm lịch, cụ bà mất ngày 27 tháng 4 âm lịch và cũng là ngày giỗ của hai cụ.",
+               "tags":"Tổ phái, đời thứ ba, phái II",
+               "isLoggedUser":false,
+               "unit":{
+                  "type":"chi phái",
+                  "chi_phai":"PHÁI III",
+				  "desc":"Đời thứ 3 từ 3 cụ phát triển thành 16 cụ 7 trai 9 gái, có 7 cụ phát triển sang đời thứ 4 sau này gọi là 7 chi."
                },
                "diavi":"cụ Tổ phái"
             }
